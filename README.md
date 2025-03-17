@@ -66,5 +66,5 @@ docker-compose up
 ## License
 Distributed under the MIT License. See `LICENSE` for details.
 
-For questions or further information, please contact [Your Name] at [Your Email].
+For questions or further information, please contact Andrew Thenedi at andrew.thenedi3@gmail.com.
 
