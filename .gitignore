@@ -1,0 +1,26 @@
+# Python / Django ignores
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info
+db.sqlite3
+*.log
+*.pot
+*.pyc
+*.so
+*.mo
+*.env
+
+# OS-specific
+.DS_Store
+
+# Node/React
+frontend/node_modules/
+dist/
+build/
+
+# Other
+.env
+*.env
+secrets/
+
